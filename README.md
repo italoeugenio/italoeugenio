@@ -25,7 +25,7 @@ Studying Computer Science at the Catholic University of Brasilia (UCB)
 ### 📱 Find me 
 <div> 
   <a href="https://instagram.com/eu.italosantana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:italoeugenio539@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:italosantana539@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ítalo-santana-a3b962208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/euitalosantana" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.tiktok.com/@eu.italosantana" target="_blank"><img src="https://img.shields.io/badge/-TikTok-%23000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
