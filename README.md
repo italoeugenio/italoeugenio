@@ -1,26 +1,27 @@
 <h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 29px> Hi there! I'm Ítalo Santana</h3>
 
 ### 👨‍💻 About Me
-Hey there! I’m Ítalo Santana, 20 years old, currently living in Brazil 🇧🇷 . <p>
-I am an enthusiastic self-learner on a mission to master iOS development and UX/UI design. I am eager to share my ongoing educational journey, providing you with insights into my academic pursuits as I delve into these two exciting fields.
+Hey there! I’m Ítalo Santana, 20 years old, currently living in Brazil 🇧🇷. <p>
+I am an enthusiastic self-learner with a passion for Java and Spring Boot. Currently, I'm deeply involved in Java development and have experience with tools such as Swagger and Flyway. Alongside my Java work, I also "play around" with iOS development and UX/UI design.
 
 <p>
 Studying Computer Science at the Catholic University of Brasilia (UCB)
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img align="left" alt=“Swift” width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
-<img align="left" alt=“Xcode” width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/>
+<img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
+<img align="left" alt="Xcode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/>
+<img align="left" alt="Spring Boot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+<img align="left" alt="Swagger" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg"/>
 
 <br> <br>
-- iOS Development with Swift (SwiftUI).
+- Java Development with Spring Boot.
+- iOS Development with Swift (UIKit).
 - User Interface Design.
 - User Experience Design.
-- MySQL and Sql
+- MySQL and SQL.
 
 ### 📱 Find me 
 <div> 
@@ -31,7 +32,6 @@ Studying Computer Science at the Catholic University of Brasilia (UCB)
   <a href="https://www.tiktok.com/@eu.italosantana" target="_blank"><img src="https://img.shields.io/badge/-TikTok-%23000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
 </div>
 
-
 ### 📊 Stats
 
 <div>
@@ -40,10 +40,3 @@ Studying Computer Science at the Catholic University of Brasilia (UCB)
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoeugenio&layout=compact&langs_count=16&theme=nightowl"/>
   </a>
 </div>
-
-
-
-
-
-
-
