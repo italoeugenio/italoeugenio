@@ -21,7 +21,7 @@ Studying Computer Science at the Catholic University of Brasilia (UCB)
 - iOS Development with Swift (UIKit).
 - User Interface Design.
 - User Experience Design.
-- MySQL and SQL.
+- PostgreSQL and SQL.
 
 ### 📱 Find me 
 <div> 
