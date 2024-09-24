@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me
 Hey there! I’m Ítalo Santana, 20 years old, currently living in Brazil 🇧🇷. <p>
-I am an enthusiastic self-learner with a passion for Java and Spring Boot. Currently, I'm deeply involved in Java development and have experience with tools such as Swagger and Flyway. Alongside my Java work, I also "play around" with iOS development and UX/UI design.
+I am an enthusiastic self-learner with a passion for Java and Spring Boot. Currently, I'm deeply involved in Java development and have experience with tools such as Swagger and Flyway. Alongside my Java work, I also "play around" with iOS development and data.
 
 <p>
 Studying Computer Science at the Catholic University of Brasilia (UCB)
