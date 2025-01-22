@@ -1,7 +1,7 @@
 <h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 29px> Hi there! I'm Ítalo Santana</h3>
 
 ### 👨‍💻 About Me
-Hey there! I’m Ítalo Santana, 20 years old, currently living in Brazil 🇧🇷. <p>
+Hey there! I’m Ítalo Santana, 21 years old, currently living in Brazil 🇧🇷. <p>
 I am an enthusiastic self-learner with a passion for Java and Spring Boot. Currently, I'm deeply involved in Java development and have experience with tools such as Swagger and Flyway. Alongside my Java work, I also "play around" with iOS development and data.
 
 <p>
@@ -10,17 +10,16 @@ Studying Computer Science at the Catholic University of Brasilia (UCB)
 ### 🧰 Languages and Tools
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
-<img align="left" alt="Xcode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="Spring Boot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
 <img align="left" alt="Swagger" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg"/>
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+
 
 <br> <br>
 - Java Development with Spring Boot.
-- iOS Development with Swift (UIKit).
-- User Interface Design.
-- User Experience Design.
+- Python
+- Swagger 
 - PostgreSQL and SQL.
 
 ### 📱 Find me 
