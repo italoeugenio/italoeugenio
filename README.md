@@ -17,10 +17,10 @@ Studying Computer Science at the Catholic University of Brasilia (UCB)
 
 
 <br> <br>
-- Java Development with Spring Boot.
+- Java Development with Spring Boot
 - Typescript, HTML, CSS
-- Swagger 
-- PostgreSQL and SQL.
+- Swagger
+- PostgreSQL and SQL
 
 ### 📱 Find me 
 <div> 
