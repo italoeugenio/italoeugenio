@@ -18,7 +18,7 @@ Studying Computer Science at the Catholic University of Brasilia (UCB)
 
 <br> <br>
 - Java Development with Spring Boot.
-- Typescript
+- Typescript, HTML, CSS
 - Swagger 
 - PostgreSQL and SQL.
 
